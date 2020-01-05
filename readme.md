@@ -63,3 +63,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Degin
+background: rgb(54,63,226);
+background: radial-gradient(circle, rgba(54,63,226,1) 0%, rgba(136,172,214,1) 100%);
